@@ -1,0 +1,2 @@
+# cat=Settings/O; type=int; label= Size of the scheduler's batch
+batchSize = 50

@@ -1,0 +1,14 @@
+{
+    "name": "ideative/id_tika",
+    "type": "typo3-cms-extension",
+    "description": "Extension Ideative - Tika",
+    "authors": [],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ideative\\IdTika\\": "Classes"
+        }
+    }
+}
